@@ -1,0 +1,41 @@
+
+.container {
+    width: 400px;
+    margin: 50px auto;
+    background-color: #9bc6ff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #2d4e96;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+#inputSection{
+    display: block;
+}
+
+#guessSection{
+    display: none;
+}
+
+input, button {
+    display: block;
+    width: 100px;
+    margin: 10px auto;
+}
+
+#celebration {
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
